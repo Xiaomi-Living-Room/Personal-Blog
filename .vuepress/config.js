@@ -54,7 +54,7 @@ module.exports = {
       }
     ],
     sidebar: {
-        "/docs/courses/": [
+        "/blogs/courses/": [
 			{
 				title: '教程',
 				sidebarDepth: 3, 
@@ -64,7 +64,7 @@ module.exports = {
 				],
 			},
         ],
-        "/docs/others/": [
+        "/blogs/others/": [
 	   			{
 				title: '杂记',
 				sidebarDepth: 3, 
@@ -93,14 +93,14 @@ module.exports = {
         desc: "Enjoy when you can, and endure when you must.",
         email: "1156743527@qq.com",
         link: "https://www.recoluan.com",
-		icon: "avatar",
+		icon: "avatar"
       },
       {
         title: "vuepress-theme-reco",
         desc: "A simple and beautiful vuepress Blog & Doc theme.",
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+		avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: "https://vuepress-theme-reco.recoluan.com",
-		icon: "logo",
+		icon: "logo"
       }
     ],
     logo: "/myAvatar.png",
