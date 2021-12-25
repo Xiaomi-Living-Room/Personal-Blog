@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 天不生我小米粒，宇宙万古如长夜.
+tagline: 一丈夫兮一丈夫，千生气志是良图.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
