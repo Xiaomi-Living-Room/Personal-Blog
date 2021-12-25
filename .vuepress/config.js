@@ -1,7 +1,7 @@
 module.exports = {
   title: "小米的生活间",
   description: "该网站用于记录学习生活和分享日常",
-  dest: "./dist",
+  dest: "public",
   head: [
     [
       "link",
